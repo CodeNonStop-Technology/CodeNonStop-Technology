@@ -1,19 +1,24 @@
-<!-- 🔥 Banner -->
+<!-- 🔥 PREMIUM BANNER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=CodeNonStop%20Technology&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=250&section=header&text=CodeNonStop%20Technology&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
+
+<!-- 👋 INTRO -->
 
 <h1 align="center">Hi 👋, I'm Virendra Kumar</h1>
 <h3 align="center">🚀 Software Engineer | Founder of CodeNonStop Technology</h3>
 
-<!-- Typing Animation -->
+<!-- ✨ TYPING EFFECT -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C6FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Engineer;Java+%7C+Spring+Boot+Learner;Building+Scalable+Web+Apps;Founder+@+CodeNonStop" />
+  <img width="90%" src="https://readme-typing-svg.herokuapp.com?color=F7B42C&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Specialist;Java+%7C+Spring+Boot+Developer;Building+Scalable+Applications;Startup+Founder+%7C+Tech+Creator" />
 </p>
 
-<!-- Profile Views -->
+<!-- 👁 VIEWS -->
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codenonstop-technology&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=codenonstop-technology&label=Profile%20Views&color=ff9800&style=flat" />
 </p>
 
 ---
@@ -21,29 +26,40 @@
 ## 🧠 About CodeNonStop Technology
 
 <p align="center">
-CodeNonStop Technology is a platform focused on building modern web applications, 
-teaching programming, and helping developers grow from beginner to advanced level.
+🚀 CodeNonStop Technology is focused on building real-world scalable applications,  
+empowering developers, and creating impactful tech solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔭 Working on **Learning Management System (MERN)**
-- 🌱 Learning **Spring Boot, React.js, Express.js**
-- 👯 Open to collaborate on **System Projects & Startups**
-- 💬 Ask me about **React, Next.js, Node.js**
-- 📫 Email: **virendra848304@gmail.com**
-- 🌐 Website: https://codenonstop.com
+* 🔭 Building **Learning Management System (MERN Stack)**
+* 🌱 Learning **Spring Boot & System Design**
+* 👯 Open for **Startups & Collaboration**
+* 💬 Ask me about **React, Node.js, Next.js**
+* 📫 Email: **[virendra848304@gmail.com](mailto:virendra848304@gmail.com)**
+* 🌐 Website: https://codenonstop.com
 
 ---
 
-## 🌐 Connect With Me
+## 🚀 Featured Project
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter" /></a>
-  <a href="https://codenonstop.com"><img src="https://img.shields.io/badge/Website-0e75b6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/pin/?username=codenonstop-technology&repo=lms&theme=tokyonight" />
+</p>
+
+<p align="center">
+📚 <b>Learning Management System</b><br/>
+A full-stack platform with authentication, course selling, payments & live classes.
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=codenonstop-technology&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -52,9 +68,11 @@ teaching programming, and helping developers grow from beginner to advanced leve
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" /><br/>
-<img src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,github,linux,figma" />
+<img width="90%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" /><br/><br/>
+
+<img width="90%" src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/><br/>
+
+<img width="90%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,github,linux,tailwind" />
 
 </p>
 
@@ -63,20 +81,39 @@ teaching programming, and helping developers grow from beginner to advanced leve
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=codenonstop-technology&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenonstop-technology&layout=compact&theme=tokyonight" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api?username=codenonstop-technology&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
+  <img width="95%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenonstop-technology&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Graph
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/codenonstop-technology/codenonstop-technology/output/github-contribution-grid-snake.svg" />
+  <img width="95%" src="https://raw.githubusercontent.com/codenonstop-technology/codenonstop-technology/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://codenonstop.com">
+    <img src="https://img.shields.io/badge/Website-ff9800?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter"/>
+  </a>
 </p>
 
 ---
@@ -84,5 +121,5 @@ teaching programming, and helping developers grow from beginner to advanced leve
 ## 🔥 Developer Mindset
 
 <p align="center">
-  <b>"Code Non Stop 🚀 | Build Real Projects | Become Unstoppable"</b>
+  <b>Code Non Stop 🚀 | Build Scalable Systems | Think Like a Founder</b>
 </p>
