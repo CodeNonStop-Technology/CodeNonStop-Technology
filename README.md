@@ -1,7 +1,6 @@
 <!-- 🔥 PREMIUM BANNER -->
-
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=250&section=header&text=CodeNonStop%20Technology&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1017C9&height=250&section=header&text=𝘾𝙤𝙙𝙚𝙉𝙤𝙣𝙎𝙩𝙤𝙥%20𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20%7C%20Learn%20%7C%20Grow&descAlignY=60&descAlign=50" />
 </p>
 
 <!-- 👋 INTRO -->
@@ -54,29 +53,17 @@ empowering developers, and creating impactful tech solutions.
 A full-stack platform with authentication, course selling, payments & live classes.
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img width="95%" src="https://github-profile-trophy.vercel.app/?username=codenonstop-technology&theme=radical&no-frame=true&row=1&column=7" />
-</p>
-
----
-
 ## ⚡ Tech Stack
 
 <p align="center">
 
-<img width="90%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" /><br/><br/>
+<img width="40%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" /><br/><br/>
 
-<img width="90%" src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/><br/>
+<img width="40%" src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/><br/>
 
-<img width="90%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,github,linux,tailwind" />
+<img width="40%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,github,linux,tailwind" />
 
 </p>
-
----
 
 ## 📊 GitHub Analytics
 
@@ -91,16 +78,6 @@ A full-stack platform with authentication, course selling, payments & live class
 <p align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
 </p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img width="95%" src="https://raw.githubusercontent.com/codenonstop-technology/codenonstop-technology/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ## 🌐 Connect With Me
 
