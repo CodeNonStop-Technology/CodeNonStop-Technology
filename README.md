@@ -1,6 +1,7 @@
 <!-- 🔥 PREMIUM BANNER -->
+
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1017C9&height=250&section=header&text=𝘾𝙤𝙙𝙚𝙉𝙤𝙣𝙎𝙩𝙤𝙥%20𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙮&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Build%20%7C%20Learn%20%7C%20Grow&descAlignY=60&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a2a6c,50:b21f1f,100:fdbb2d&height=250&section=header&text=CodeNonStop%20Technology&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
 </p>
 
 <!-- 👋 INTRO -->
@@ -17,19 +18,16 @@
 <!-- 👁 VIEWS -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codenonstop-technology&label=Profile%20Views&color=ff9800&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=codenonstop-technology&label=Profile%20Views&color=0000&style=flat" />
 </p>
 
 ---
-
 ## 🧠 About CodeNonStop Technology
 
 <p align="center">
 🚀 CodeNonStop Technology is focused on building real-world scalable applications,  
 empowering developers, and creating impactful tech solutions.
 </p>
-
----
 
 ## 👨‍💻 About Me
 
@@ -39,8 +37,6 @@ empowering developers, and creating impactful tech solutions.
 * 💬 Ask me about **React, Node.js, Next.js**
 * 📫 Email: **[virendra848304@gmail.com](mailto:virendra848304@gmail.com)**
 * 🌐 Website: https://codenonstop.com
-
----
 
 ## 🚀 Featured Project
 
@@ -55,15 +51,17 @@ A full-stack platform with authentication, course selling, payments & live class
 
 ## ⚡ Tech Stack
 
-<p align="center">
+<p align="left">
 
-<img width="40%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" /><br/><br/>
+<img width="40%" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb" />
 
-<img width="40%" src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/><br/>
+<img width="30%" src="https://skillicons.dev/icons?i=java,spring,cpp,python,typescript,redux" /><br/>
 
 <img width="40%" src="https://skillicons.dev/icons?i=docker,kubernetes,aws,firebase,git,github,linux,tailwind" />
 
 </p>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -78,6 +76,8 @@ A full-stack platform with authentication, course selling, payments & live class
 <p align="center">
   <img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=codenonstop-technology&theme=tokyonight" />
 </p>
+
+---
 
 ## 🌐 Connect With Me
 
